@@ -15,7 +15,7 @@ SETUP = (
     "My smart fridge emailed me a grocery list, a therapy referral, "
     "and a screenshot of me eating ice cream at 2 a.m."
 )
-PAYOFF = "it knows me better than my mother, and judges me exactly like her."
+PAYOFF = "It knows me better than my mother, and judges me exactly like her."
 
 MAX_CHARS = 280
 MIN_CHARS = 1
